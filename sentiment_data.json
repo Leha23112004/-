@@ -1,0 +1,72 @@
+[
+    {
+        "fear_greed_index": {
+            "value": 60,
+            "value_classification": "Greed",
+            "timestamp": "1749945600",
+            "time_until_update": "79980"
+        },
+        "news_sentiment": {
+            "average_polarity": 0,
+            "average_subjectivity": 0,
+            "news_count": 0
+        },
+        "timestamp": "2025-06-15T04:46:54.090509"
+    },
+    {
+        "fear_greed_index": {
+            "value": 60,
+            "value_classification": "Greed",
+            "timestamp": "1749945600",
+            "time_until_update": "79865"
+        },
+        "news_sentiment": {
+            "average_polarity": 0,
+            "average_subjectivity": 0,
+            "news_count": 0
+        },
+        "timestamp": "2025-06-15T04:48:48.788872"
+    },
+    {
+        "fear_greed_index": {
+            "value": 60,
+            "value_classification": "Greed",
+            "timestamp": "1749945600",
+            "time_until_update": "79764"
+        },
+        "news_sentiment": {
+            "average_polarity": 0,
+            "average_subjectivity": 0,
+            "news_count": 0
+        },
+        "timestamp": "2025-06-15T04:50:32.379662"
+    },
+    {
+        "fear_greed_index": {
+            "value": 60,
+            "value_classification": "Greed",
+            "timestamp": "1749945600",
+            "time_until_update": "79486"
+        },
+        "news_sentiment": {
+            "average_polarity": 0,
+            "average_subjectivity": 0,
+            "news_count": 0
+        },
+        "timestamp": "2025-06-15T04:55:11.594773"
+    },
+    {
+        "fear_greed_index": {
+            "value": 60,
+            "value_classification": "Greed",
+            "timestamp": "1749945600",
+            "time_until_update": "79443"
+        },
+        "news_sentiment": {
+            "average_polarity": 0,
+            "average_subjectivity": 0,
+            "news_count": 0
+        },
+        "timestamp": "2025-06-15T04:55:53.740984"
+    }
+]

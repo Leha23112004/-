@@ -1,0 +1,14 @@
+2025-06-15 03:51:20,939 - INFO - Запуск полного статистического анализа...
+2025-06-15 03:51:20,941 - INFO - Начало анализа корреляций...
+2025-06-15 03:51:22,261 - ERROR - Ошибка при получении данных для BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:51:22,681 - ERROR - Ошибка при получении данных для ETH/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:51:23,120 - ERROR - Ошибка при получении данных для BNB/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:51:23,548 - ERROR - Ошибка при получении данных для SOL/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:51:23,975 - ERROR - Ошибка при получении данных для XRP/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:54:03,579 - INFO - Запуск полного статистического анализа...
+2025-06-15 03:54:03,581 - INFO - Начало анализа корреляций...
+2025-06-15 03:54:04,770 - ERROR - Ошибка при получении данных для BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:54:05,238 - ERROR - Ошибка при получении данных для ETH/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:54:05,709 - ERROR - Ошибка при получении данных для BNB/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:54:06,143 - ERROR - Ошибка при получении данных для SOL/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-06-15 03:54:06,584 - ERROR - Ошибка при получении данных для XRP/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
